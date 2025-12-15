@@ -46,8 +46,8 @@ The repository contains three distinct approaches to the problem, each implement
 
 Below are the architecture diagrams for the implemented models.
 
-![Architecture Diagram 1](images/image3.png)
-![Architecture Diagram 2](images/image4.png)
+![Architecture Diagram 1](images/image5.png)
+![Architecture Diagram 2](images/image6.png)
 
 > **Note**: These images correspond to the extracted architecture diagrams. If they are incorrect, please update the filenames to point to the correct images in the `images/` folder.
 
