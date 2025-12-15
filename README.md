@@ -49,8 +49,6 @@ Below are the architecture diagrams for the implemented models.
 ![Architecture Diagram 1](images/image5.png)
 ![Architecture Diagram 2](images/image6.png)
 
-> **Note**: These images correspond to the extracted architecture diagrams. If they are incorrect, please update the filenames to point to the correct images in the `images/` folder.
-
 For a detailed analysis of the results, additional visuals, and performance metrics, please refer to the **[Project Report](report_deep_learning.pdf)** or the **[Presentation](presentation_deep_learning.pptx)**.
 
 ## How to Run on Kaggle
